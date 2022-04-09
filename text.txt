@@ -64,6 +64,7 @@ Fender/64 Mustang
 Fender/65 Precision Bass
 ÅEOutBoard
 Focusrite/ISA Two
+Xpressor/elysia
 ÅEMicrophone
 Shure/SM57
 SENNHEISER/MD421-áU
